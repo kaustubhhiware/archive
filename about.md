@@ -11,10 +11,8 @@ I have watched some great movies , but in doing so , I have developed an addicti
 I am the Binge.
 Binge .With an E . Because , well no one likes Bing .
 
-### More Information
+### Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Jokes apart , I am a second year Computer Science student studying at IIT Kharagpur as mentioned above .
+ I am interested in open source developing , and Artificial Intelligence and Machine Learning projects fascinate me.
+ 
