@@ -19,6 +19,8 @@
 
 </p>
 
+<h1>Is the net working , mate ?</h1>
+
 <script type="text/javascript" src="jquery-3.0.0.min.js"></script>
 <script>
 	//online version of jquery : http://code.jquery.com/jquery.min.js
@@ -27,6 +29,15 @@
 
 		alert(data);
 	});
+
+	$.ajax({	
+			url:"test.html"	
+		}).done(function(data) {	
+	
+			$("h1").append(data);	
+		//.html(data) willl replace the data
+	});	
+
 
 </script>		
 </body>	
