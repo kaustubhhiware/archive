@@ -13,11 +13,20 @@
 </head>	
 	
 <body>	
-<p>Ajax = Asynchromous Javascript and XML </p>
+<p>Ajax = Asynchromous Javascript and XML 
+<br />Ajax loads a ton of stuff without refreshing the page - primary like Gmail
+<br />A lot of testing has to be online , so a lot of commits maybe coming this way
+
+</p>
 
 <script type="text/javascript" src="jquery-3.0.0.min.js"></script>
 <script>
-	
+	//online version of jquery : http://code.jquery.com/jquery.min.js
+
+	$.get("example.html",function(data){
+
+		alert(data);
+	});
 
 </script>		
 </body>	
