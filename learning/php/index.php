@@ -43,6 +43,6 @@
 	print_r($Array2);
 	echo "<br /><br />"
 
-
+	echo "<a href="index2.php">Conditionals</a>";
 	
 ?>
