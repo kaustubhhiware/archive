@@ -10,10 +10,10 @@ img{width:100%;height:auto;}
 .fa-code{color:khaki;}
 .typed-cursor{font-weight:500;}
 .me{width:15%;height:20%;border:0px;border-radius:20%;display:inline;margin-bottom:3%;}
-.intro{background-image:url('../img/cricket.png');background-size:cover;font-family:monospace;}
-.who{background-image:url("../img/cover_min.png");background-size:cover;color:aliceblue;font-family:monospace;}
+.intro{background-image:url('../img/morning.jpg');background-size:cover;font-family:monospace;}
+.who{background-image:url("../img/hello.png");background-size:cover;color:aliceblue;font-family:monospace;}
 .who a{color:#C26262;font-weight:600;}
-.love{background:#D4DEDE;}
+.love{background-image:url("../img/cover_min.png");background-size:cover;}
 .work{background:-webkit-linear-gradient(90deg, #403B4A 10%, #727261 90%);background:-moz-linear-gradient(90deg, #403B4A 10%, #727261 90%);background:-ms-linear-gradient(90deg, #403B4A 10%, #727261 90%);background:-o-linear-gradient(90deg, #403B4A 10%, #727261 90%);background:linear-gradient(90deg, #403B4A 10%, #727261 90%);text-align:center;}
 .contact{text-align:center;background:-webkit-linear-gradient(90deg, rgb(46, 46, 49) 10%, #808350 90%);background:-moz-linear-gradient(90deg, rgb(46, 46, 49) 10%, #808350 90%);background:-ms-linear-gradient(90deg, rgb(46, 46, 49) 10%, #808350 90%);background:-o-linear-gradient(90deg, rgb(46, 46, 49) 10%, #808350 90%);background:linear-gradient(90deg, rgb(46, 46, 49) 10%, #808350 90%);font-family:monospace;font-weight:300;}
 .proj_wrapper{margin-left:5%;}
@@ -78,8 +78,8 @@ nav nav-tabs li:active{color:black;}
 .major_skill{display:none;}
 .mini_skill{display:block;}
 }
-@media only screen and (max-width:935px){.intro{background-image:url('../img/me_cric.png');background-size:100% 50%;background-repeat:no-repeat;}
-body{background-image:url('../img/mini_cric.png');background-size:contain;}
+@media only screen and (max-width:935px){.intro{background-image:url('../img/morning.png');background-size:100% 50%;background-repeat:no-repeat;}
+body{background-image:url('../img/morning.png');background-size:contain;}
 }
 #code_lang{color:#D64727;}
 .mini_proj_slide{position:relative;top:44%;text-align:center;left:0%;margin-left:15%;}
