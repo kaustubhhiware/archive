@@ -1,5 +1,3 @@
-Hello !
+#website_logs
 
-This is my [website](kaustubhhiware.github.io).
-
-A formal revamp for future purposes.
+A dump for all my versions, for cleaner commmit history.
